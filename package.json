@@ -1,0 +1,23 @@
+{
+  "name": "leonanrf",
+  "version": "1.0.0",
+  "description": "Meu primeiro site",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonan0/leonanrf.git"
+  },
+  "author": "Leonan R Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonan0/leonanrf/issues"
+  },
+  "homepage": "https://github.com/leonan0/leonanrf#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
